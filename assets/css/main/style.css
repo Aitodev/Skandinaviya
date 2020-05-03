@@ -1,0 +1,12 @@
+.pip-ic-code{
+  background-image: url('../../img/icons/code.svg');
+  background-size: contain;
+}
+.pip-ic-coding{
+  background-image: url('../../img/icons/coding.svg');
+  background-size: contain;
+}
+.pip-ic-rocket{
+  background-image: url('../../img/icons/rocket.svg');
+  background-size: contain;
+}
